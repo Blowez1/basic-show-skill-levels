@@ -1,0 +1,33 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.skill-name {
+  font-size: 20px;
+  color: #172875;
+  font-weight: 800;
+}
+
+.skill-item {
+  width: 100%;
+  position: relative;
+  height: 26px;
+  background-color: #66719e;
+}
+
+.skill-item .skill {
+  background-color: #172875;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  text-align: right;
+  color: #fff;
+}
+
+.skill-item .skill-level {
+  line-height: 1.6;
+  font-weight: bold;
+  margin-right: 5px;
+}
+/*# sourceMappingURL=main.css.map */
